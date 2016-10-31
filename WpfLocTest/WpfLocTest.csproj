@@ -105,7 +105,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AppLocalizer.csproj">
+    <ProjectReference Include="..\AppLocalizer\AppLocalizer.csproj">
       <Project>{FEC5E41D-8F08-4F76-ACD4-3E6E83F281B7}</Project>
       <Name>AppLocalizer</Name>
     </ProjectReference>
