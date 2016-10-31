@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLocalizer", "AppLocalizer.csproj", "{FEC5E41D-8F08-4F76-ACD4-3E6E83F281B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLocTest", "WpfLocTest\WpfLocTest.csproj", "{CCC7C8DA-3D35-49C1-BCD8-27CB4478BC9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateLocTest", "..\GenerateLocTest\GenerateLocTest.csproj", "{5E49FDD6-F83D-454F-AB39-09454C320CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC5E41D-8F08-4F76-ACD4-3E6E83F281B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC5E41D-8F08-4F76-ACD4-3E6E83F281B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC5E41D-8F08-4F76-ACD4-3E6E83F281B7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FEC5E41D-8F08-4F76-ACD4-3E6E83F281B7}.Debug|x64.Build.0 = Debug|Any CPU
+		{FEC5E41D-8F08-4F76-ACD4-3E6E83F281B7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FEC5E41D-8F08-4F76-ACD4-3E6E83F281B7}.Debug|x86.Build.0 = Debug|Any CPU
+		{FEC5E41D-8F08-4F76-ACD4-3E6E83F281B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC5E41D-8F08-4F76-ACD4-3E6E83F281B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC5E41D-8F08-4F76-ACD4-3E6E83F281B7}.Release|x64.ActiveCfg = Release|Any CPU
+		{FEC5E41D-8F08-4F76-ACD4-3E6E83F281B7}.Release|x64.Build.0 = Release|Any CPU
+		{FEC5E41D-8F08-4F76-ACD4-3E6E83F281B7}.Release|x86.ActiveCfg = Release|Any CPU
+		{FEC5E41D-8F08-4F76-ACD4-3E6E83F281B7}.Release|x86.Build.0 = Release|Any CPU
+		{CCC7C8DA-3D35-49C1-BCD8-27CB4478BC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC7C8DA-3D35-49C1-BCD8-27CB4478BC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC7C8DA-3D35-49C1-BCD8-27CB4478BC9C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CCC7C8DA-3D35-49C1-BCD8-27CB4478BC9C}.Debug|x64.Build.0 = Debug|Any CPU
+		{CCC7C8DA-3D35-49C1-BCD8-27CB4478BC9C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CCC7C8DA-3D35-49C1-BCD8-27CB4478BC9C}.Debug|x86.Build.0 = Debug|Any CPU
+		{CCC7C8DA-3D35-49C1-BCD8-27CB4478BC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC7C8DA-3D35-49C1-BCD8-27CB4478BC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC7C8DA-3D35-49C1-BCD8-27CB4478BC9C}.Release|x64.ActiveCfg = Release|Any CPU
+		{CCC7C8DA-3D35-49C1-BCD8-27CB4478BC9C}.Release|x64.Build.0 = Release|Any CPU
+		{CCC7C8DA-3D35-49C1-BCD8-27CB4478BC9C}.Release|x86.ActiveCfg = Release|Any CPU
+		{CCC7C8DA-3D35-49C1-BCD8-27CB4478BC9C}.Release|x86.Build.0 = Release|Any CPU
+		{5E49FDD6-F83D-454F-AB39-09454C320CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E49FDD6-F83D-454F-AB39-09454C320CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E49FDD6-F83D-454F-AB39-09454C320CB9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5E49FDD6-F83D-454F-AB39-09454C320CB9}.Debug|x64.Build.0 = Debug|Any CPU
+		{5E49FDD6-F83D-454F-AB39-09454C320CB9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5E49FDD6-F83D-454F-AB39-09454C320CB9}.Debug|x86.Build.0 = Debug|Any CPU
+		{5E49FDD6-F83D-454F-AB39-09454C320CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E49FDD6-F83D-454F-AB39-09454C320CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E49FDD6-F83D-454F-AB39-09454C320CB9}.Release|x64.ActiveCfg = Release|Any CPU
+		{5E49FDD6-F83D-454F-AB39-09454C320CB9}.Release|x64.Build.0 = Release|Any CPU
+		{5E49FDD6-F83D-454F-AB39-09454C320CB9}.Release|x86.ActiveCfg = Release|Any CPU
+		{5E49FDD6-F83D-454F-AB39-09454C320CB9}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://crozium.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AppLocalizer.csproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = WpfLocTest\\WpfLocTest.csproj
+		SccProjectName2 = WpfLocTest
+		SccLocalPath2 = WpfLocTest
+		SccProjectUniqueName3 = ..\\GenerateLocTest\\GenerateLocTest.csproj
+		SccProjectName3 = ../GenerateLocTest
+		SccLocalPath3 = ..\\GenerateLocTest
+	EndGlobalSection
+EndGlobal

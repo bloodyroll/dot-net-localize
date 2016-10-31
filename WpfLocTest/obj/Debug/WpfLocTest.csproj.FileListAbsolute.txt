@@ -1,0 +1,17 @@
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\bin\Debug\WpfLocTest.exe.config
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\bin\Debug\WpfLocTest.exe
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\bin\Debug\WpfLocTest.pdb
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\obj\Debug\WpfLocTest.csprojResolveAssemblyReference.cache
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\obj\Debug\MainWindow.g.cs
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\obj\Debug\App.g.cs
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\obj\Debug\WpfLocTest_MarkupCompile.cache
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\obj\Debug\WpfLocTest_MarkupCompile.lref
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\obj\Debug\MainWindow.baml
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\obj\Debug\WpfLocTest.g.resources
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\obj\Debug\WpfLocTest.Properties.Resources.resources
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\obj\Debug\WpfLocTest.csproj.GenerateResource.Cache
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\obj\Debug\WpfLocTest.exe
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\obj\Debug\WpfLocTest.pdb
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\bin\Debug\AppLocalizer.dll
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\bin\Debug\AppLocalizer.pdb
+D:\VisualStudioWorkspace\AppLocalizer\AppLocalizer\WpfLocTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
