@@ -69,20 +69,23 @@ A byte parameter is a number of language index in data file;
 
 Wpf test appllication: 'WpfLocTest'
 
-* Getting data in-code
+- Getting data in-code
+
 Use next method to return localized string value with phrase key parameter:
 ```
 var strValue = Translate.Value("TestLang_First");
 ```
 
-* XAML using
+- XAML using
+
 Example with Textblock:
 ```
 <TextBlock Margin="5"
            Text="{Binding Path=(appLocalizer:Translate.OneLangDictionary)[1], FallbackValue=OneLangData}" />
 ```
 
-* Localize description attribute
+- Localize description attribute
+
 Use custom LocalizedDescriptionAttribute:
 ```
  public enum TestLangEnum
